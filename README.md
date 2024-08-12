@@ -35,11 +35,11 @@ This example can be used to feature the most important image and show a row of f
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/brianondemand/NextJs-Galleries/blob/main/public/screens/image1.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/brianondemand/NextJs-Galleries/blob/main/public/screens/image2.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/brianondemand/NextJs-Galleries/blob/main/public/screens/image3.png)
 
 
 ## Installation
