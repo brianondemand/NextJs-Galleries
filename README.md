@@ -44,25 +44,32 @@ This example can be used to feature the most important image and show a row of f
 
 ## Installation
 
-Install my-project with npm
+Clone the project
 
 ```bash
   git clone https://github.com/brianondemand/NextJs-Galleries.git
-
-  cd NextJs-Galleries
-
-  npm install
-
 ```
-    
-## Deployment
 
-To deploy this project run
+Go to the project directory
+
+```bash
+  cd NextJs-Galleries
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+## Run Locally
+
+Start the server
 
 ```bash
   npm run dev
-
 ```
+
+
 
 
 
